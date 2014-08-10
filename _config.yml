@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            'IsoThoughts' 
-tagline:          It's a big world out there!'
-description:      'We all do the best we can.'
+title:            'IsoThoughts'
+tagline:          It's a big world out there!
+description:      'We do the best we can.'
 url:              http://isothoughts.com
 baseurl:          /
 
