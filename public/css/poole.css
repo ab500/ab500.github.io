@@ -234,6 +234,12 @@ img {
   border-radius: 5px;
 }
 
+.smallimage {
+  max-width: 25%;
+  float: left;
+  margin: 0 1rem 0 0;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
@@ -286,9 +292,9 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 38rem;
-  padding-left:  1rem;
-  padding-right: 1rem;
+  max-width: 40rem;
+  padding-left:  0.5rem;
+  padding-right: 0.5rem;
   margin-left:  auto;
   margin-right: auto;
 }
@@ -303,7 +309,6 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
 }
 .masthead-title {
   margin-top: 0;
@@ -377,6 +382,9 @@ tbody tr:nth-child(odd) th {
   color: inherit;
 }
 
+.copyright {
+    font-size: 70%;
+}
 
 /*
  * Pagination

@@ -1,5 +1,10 @@
 <div class="sidebar">
+  <div class="container">
+    <a class="twitter-timeline" href="https://twitter.com/ab500" data-chrome="transparent" data-tweet-limit="3" data-widget-id="498601521563459584">Tweets by @ab500</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  </div>
   <div class="container sidebar-sticky">
+
     <div class="sidebar-about">
       <p class="lead">{{ site.description }}</p>
     </div>
@@ -21,10 +26,9 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+      <a class="sidebar-nav-item" href="http://github.com/ab500">GitHub</a>
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p class="copyright">&copy; {{ site.time | date: '%Y' }} Andrew Robinson. All rights reserved.</p>
   </div>
 </div>

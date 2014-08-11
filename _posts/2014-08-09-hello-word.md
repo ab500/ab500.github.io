@@ -30,6 +30,6 @@ the fields of machine learning and artificial intelligence continue to improve a
 state of the art continues to improve. We gallop forward with seemly reckless abandon
 as the impossible continues to crumble.
 
-It's all so very exciting to be a part of and I'd like to share some of that excited with
+It's all so very exciting to be a part of and I'd like to share some of that excitement with
 you. Onward we go!
 
