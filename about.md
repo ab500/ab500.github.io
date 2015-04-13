@@ -6,7 +6,7 @@ title: About Me
 <img class="smallimage" src="/public/images/me.jpg" />
 
 I'm Andrew Robinson. I live and play in Seattle as a software developer during the day
-and a typical 20-something, aimless young adult during the night. 
+and a typical 20-something, aimless young adult during the night.
 
 I typically spend my
 days obsessing over cache-locality, forming opinions of my colleagues exclusively by
@@ -34,15 +34,15 @@ machine learning, distributed systems, signal processing, high-performance
 graphics and rendering.
 I've seen it all at this point as I've navigated and stumbled around in a 
 countless number of languages, worked for an alarming number of companies, and
-written a truly absurd amount of code.
+written a mountain of code.
 
 I believe pushing technology forward is one of the most interesting things one
-can do with their lives. Particularly computer science has always captivated me.
+can do. Computer science has always captivated me.
 If you believe in a deterministic world then you'll believe the way we think
-and in fact everything that gives rise to that fleeting phenomenon we call
+and even everything that gives rise to that fleeting phenomenon we call
 consciousness is understandable, describable, and
 copyable. To me, computer science is the study of how we do that. Curiosity
-is fundamental to who we are and computer science is all about building 
+is fundamental to who we are and computer science is about building 
 the machines that enable understanding and exploration. Algorithms are the ultimate 
 levers by which we pry apart and manipulate our world and through them
 anything becomes possible. How couldn't that get you excited?

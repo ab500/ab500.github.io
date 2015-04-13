@@ -27,7 +27,7 @@ is being created that will have far-reaching effects long into the future.
 
 At the same time we continue to push out the limits of what's possible. Year after year
 the fields of machine learning and artificial intelligence continue to improve and the
-state of the art continues to improve. We gallop forward with seemly reckless abandon
+state of the art continues to march forward. We gallop with seemly reckless abandon
 as the impossible continues to crumble.
 
 It's all so very exciting to be a part of and I'd like to share some of that excitement with
